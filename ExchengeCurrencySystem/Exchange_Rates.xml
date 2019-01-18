@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<Exchange_Rates>
+  <Sale>
+    <BYN>1</BYN>
+    <RUB>31,8471</RUB>
+    <EUR>0,408469</EUR>
+    <USD>0,464684</USD>
+    <JPU>47,6644</JPU>
+    <GBR>0,36563</GBR>
+    <CHF>0,460617</CHF>
+  </Sale>
+  <Purchase>
+    <BYN>1</BYN>
+    <RUB>34,3642</RUB>
+    <EUR>0,4149</EUR>
+    <USD>0,4677</USD>
+    <JPU>57,1102</JPU>
+    <GBR>0,3765</GBR>
+    <CHF>0,4768</CHF>
+  </Purchase>
+</Exchange_Rates>

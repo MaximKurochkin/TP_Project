@@ -1,0 +1,13 @@
+D:\MyPrograms\курс 3\MainProject\ExchengeCurrencySystem\Repositories\bin\Debug\Repositories.exe.config
+D:\MyPrograms\курс 3\MainProject\ExchengeCurrencySystem\Repositories\bin\Debug\Repositories.exe
+D:\MyPrograms\курс 3\MainProject\ExchengeCurrencySystem\Repositories\bin\Debug\Repositories.pdb
+D:\MyPrograms\курс 3\MainProject\ExchengeCurrencySystem\Repositories\bin\Debug\Autofac.dll
+D:\MyPrograms\курс 3\MainProject\ExchengeCurrencySystem\Repositories\bin\Debug\Entities.exe
+D:\MyPrograms\курс 3\MainProject\ExchengeCurrencySystem\Repositories\bin\Debug\Entities.pdb
+D:\MyPrograms\курс 3\MainProject\ExchengeCurrencySystem\Repositories\bin\Debug\Entities.exe.config
+D:\MyPrograms\курс 3\MainProject\ExchengeCurrencySystem\Repositories\bin\Debug\Autofac.xml
+D:\MyPrograms\курс 3\MainProject\ExchengeCurrencySystem\Repositories\obj\Debug\Repositories.csprojAssemblyReference.cache
+D:\MyPrograms\курс 3\MainProject\ExchengeCurrencySystem\Repositories\obj\Debug\Repositories.csproj.CoreCompileInputs.cache
+D:\MyPrograms\курс 3\MainProject\ExchengeCurrencySystem\Repositories\obj\Debug\Repositories.csproj.CopyComplete
+D:\MyPrograms\курс 3\MainProject\ExchengeCurrencySystem\Repositories\obj\Debug\Repositories.exe
+D:\MyPrograms\курс 3\MainProject\ExchengeCurrencySystem\Repositories\obj\Debug\Repositories.pdb

@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<Restrictions>
+  <Currency>
+    <BYN>1000</BYN>
+    <RUB>10000</RUB>
+    <EUR>2000</EUR>
+    <USD>3000</USD>
+    <JPU>6000</JPU>
+    <GBR>1000</GBR>
+    <CHF>3000</CHF>
+  </Currency>
+</Restrictions>

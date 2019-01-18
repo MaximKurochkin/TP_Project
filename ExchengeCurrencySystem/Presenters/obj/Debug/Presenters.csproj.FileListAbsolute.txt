@@ -1,0 +1,17 @@
+D:\MyPrograms\курс 3\MainProject\ExchengeCurrencySystem\Presenters\bin\Debug\Presenters.exe.config
+D:\MyPrograms\курс 3\MainProject\ExchengeCurrencySystem\Presenters\bin\Debug\Presenters.exe
+D:\MyPrograms\курс 3\MainProject\ExchengeCurrencySystem\Presenters\bin\Debug\Presenters.pdb
+D:\MyPrograms\курс 3\MainProject\ExchengeCurrencySystem\Presenters\bin\Debug\Entities.exe
+D:\MyPrograms\курс 3\MainProject\ExchengeCurrencySystem\Presenters\bin\Debug\Services.exe
+D:\MyPrograms\курс 3\MainProject\ExchengeCurrencySystem\Presenters\bin\Debug\Repositories.exe
+D:\MyPrograms\курс 3\MainProject\ExchengeCurrencySystem\Presenters\bin\Debug\Entities.pdb
+D:\MyPrograms\курс 3\MainProject\ExchengeCurrencySystem\Presenters\bin\Debug\Entities.exe.config
+D:\MyPrograms\курс 3\MainProject\ExchengeCurrencySystem\Presenters\bin\Debug\Services.pdb
+D:\MyPrograms\курс 3\MainProject\ExchengeCurrencySystem\Presenters\bin\Debug\Services.exe.config
+D:\MyPrograms\курс 3\MainProject\ExchengeCurrencySystem\Presenters\bin\Debug\Repositories.pdb
+D:\MyPrograms\курс 3\MainProject\ExchengeCurrencySystem\Presenters\bin\Debug\Repositories.exe.config
+D:\MyPrograms\курс 3\MainProject\ExchengeCurrencySystem\Presenters\obj\Debug\Presenters.csprojAssemblyReference.cache
+D:\MyPrograms\курс 3\MainProject\ExchengeCurrencySystem\Presenters\obj\Debug\Presenters.csproj.CoreCompileInputs.cache
+D:\MyPrograms\курс 3\MainProject\ExchengeCurrencySystem\Presenters\obj\Debug\Presenters.csproj.CopyComplete
+D:\MyPrograms\курс 3\MainProject\ExchengeCurrencySystem\Presenters\obj\Debug\Presenters.exe
+D:\MyPrograms\курс 3\MainProject\ExchengeCurrencySystem\Presenters\obj\Debug\Presenters.pdb

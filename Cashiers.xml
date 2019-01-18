@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<Cashiers>
+  <Cashier>
+    <FirstName>Юлия</FirstName>
+    <LastName>Липская</LastName>
+    <Pasport>KH1234567</Pasport>
+    <OnWork>No</OnWork>
+  </Cashier>
+  <Cashier>
+    <FirstName>Арина</FirstName>
+    <LastName>Кохановская</LastName>
+    <Pasport>KH7654321</Pasport>
+    <OnWork>No</OnWork>
+  </Cashier>
+  <Cashier>
+    <FirstName>Виктория</FirstName>
+    <LastName>Степура</LastName>
+    <Pasport>KH2468913</Pasport>
+    <OnWork>No</OnWork>
+  </Cashier>
+  <Cashier>
+    <FirstName>Антон</FirstName>
+    <LastName>Хлебка</LastName>
+    <Pasport>KH6758493</Pasport>
+    <OnWork>No</OnWork>
+  </Cashier>
+</Cashiers>

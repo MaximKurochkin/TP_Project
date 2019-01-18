@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<Cashiers>
+  <Cashier>
+    <FirstName>Юлия</FirstName>
+    <LastName>Липская</LastName>
+    <Pasport>KH1234567</Pasport>
+    <OnWork>No</OnWork>
+  </Cashier>
+  <Cashier>
+    <FirstName>Арина</FirstName>
+    <LastName>Кохановская</LastName>
+    <Pasport>KH2344623</Pasport>
+    <OnWork>No</OnWork>
+  </Cashier>
+</Cashiers>
